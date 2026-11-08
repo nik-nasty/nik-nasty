@@ -1,6 +1,6 @@
 # Hi, I'm Nikki 💜
 
-**Systems Lead and integration builder.** I design and run the whole digital stack for a UK outdoor wellness manufacturer, working remotely from South Africa: CRM, automation, integrations, email, web pages, proposals and AI agents.
+**Systems, Automations and Design.** I design and run the whole digital stack for a UK outdoor wellness manufacturer, working remotely from South Africa: CRM, automation, integrations, email, web pages, proposals and AI agents.
 
 <img src="work_history.svg" alt="511 commits across 16 repositories, July to November 2026" width="100%">
 
@@ -37,6 +37,16 @@
 
 **Documents and training**
 - Role based CRM user manual, owner guides and warranties, handover sign-off form, trade show brochures
+
+## Coming to this profile
+
+- 🔌 **Open-source GoHighLevel MCP server.** A public, generic version of my own server, so any GHL agency can plug AI into their CRM
+- ⚙️ **Order to install engine on Cloudflare Workers.** Webhooks in, a queue, stage tracking, customer and team updates, and a dashboard with true numbers every morning
+- 🖼️ **In-browser AI product image studio.** Background removal and brand templates running entirely in the browser, no server needed
+
+## How I work
+
+I build with AI as a pair programmer, and I can walk you through every line of what I ship. I plan the system, I own the decisions, and I keep it honest about what is live and what is still in progress.
 
 ## Stack
 

@@ -1,4 +1,4 @@
-# Hi, I'm Nikki 👋
+# Hi, I'm Nikki 💜
 
 **Systems Lead and integration builder.** I design and run the whole digital stack for a UK outdoor wellness manufacturer, working remotely from South Africa: CRM, automation, integrations, email, web pages, proposals and AI agents.
 
